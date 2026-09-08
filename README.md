@@ -2,7 +2,7 @@
 
 ## Household and School-Based Survey Methods to Assess HPV Vaccination Coverage Among Adolescent Girls in Liberia, Rwanda, and Senegal
 
-This repository provides comprehensive materials supporting the HPV-IMPACT Study manuscript, including study data, analysis code, and survey instruments used to assess HPV vaccination coverage among adolescent girls across three African countries.
+This repository provides comprehensive materials supporting the HPV-IMPACT Study methods paper, including study example data, analysis R code, and survey instruments used to assess HPV vaccination coverage among adolescent girls across three African countries.
 
 ---
 
@@ -61,7 +61,7 @@ This multi-country approach provides robust evidence on vaccination coverage and
 
 ## 📧 Contact
 
-For questions about the study, methodology, or materials, please contact the HPV-IMPACT Study team.
+For questions about the study, methodology, or materials, please contact any of the HPV-IMPACT Study team, or ali.mirzazadeh@ucsf.edu.
 
 ---
 
