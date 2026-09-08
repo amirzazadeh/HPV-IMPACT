@@ -23,6 +23,10 @@ This multi-country approach provides robust evidence on vaccination coverage and
 
 - **[De-identified Study Data](INSERT_LINK)** — Cleaned, de-identified dataset ready for analysis
 - **[R Analysis Code](INSERT_LINK)** — Complete R scripts for data processing, analysis, and visualization
+- **[R Analysis Code](R/)** — Complete R scripts for data processing, analysis, and visualization
+  - [`Rcode_RW_HH_Survey_Sampling_Weights_Calculation.R`](R/Rcode_RW_HH_Survey_Sampling_Weights_Calculation.R) — Calculates sampling weights for the Household (HH) survey.
+  - [`Rcode_RW_School_Survey_Sampling_Weights_Calculation.R`](R/Rcode_RW_School_Survey_Sampling_Weights_Calculation.R) — Calculates sampling weights for the School survey.
+
 - **[Household Survey Questionnaire - Adolescents](INSERT_LINK)** — Questionnaire used to interview adolescents
 - **[Household Survey Questionnaire - Caregivers](INSERT_LINK)** — Questionnaire used to interview caregivers
 - **[School-Level Data Collection Form](INSERT_LINK)** — Form used to collect school-level data
