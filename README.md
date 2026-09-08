@@ -6,7 +6,7 @@ This repository provides comprehensive materials supporting the HPV-IMPACT Study
 
 ---
 
-## 📋 Study Overview
+## Study Overview
 
 The HPV-IMPACT Study employs both household and school-based survey methods to evaluate HPV vaccination coverage among adolescent girls in:
 - **Liberia**
@@ -17,23 +17,18 @@ This multi-country approach provides robust evidence on vaccination coverage and
 
 ---
 
-## 📚 Repository Contents
+## Repository Contents
 
 ### Study Materials
 
 - **[De-identified Study Data](INSERT_LINK)** — Cleaned, de-identified dataset ready for analysis
 - **[R Analysis Code](INSERT_LINK)** — Complete R scripts for data processing, analysis, and visualization
-- **[Household Survey Questionnaire](INSERT_LINK)** — Survey instrument used for household-level data collection
-- **[School-Based Survey Questionnaire](INSERT_LINK)** — Survey instrument used for school-level data collection
+- **[Household Survey Questionnaire - Adolescents](INSERT_LINK)** — Questionnaire used to interview adolescents
+- **[Household Survey Questionnaire - Caregivers](INSERT_LINK)** — Questionnaire used to interview caregivers
+- **[School-Level Data Collection Form](INSERT_LINK)** — Form used to collect school-level data
+- **[School-Based Survey Questionnaire](INSERT_LINK)** — Questionnaire used to interview students
 
-### Additional Resources
-
-- This README — Overview and navigation guide
-- License — Terms of use for study materials
-
----
-
-## 🔍 How to Use This Repository
+## How to Use This Repository
 
 ### For Researchers
 - Review the survey questionnaires to understand data collection methodology
@@ -51,7 +46,7 @@ This multi-country approach provides robust evidence on vaccination coverage and
 
 ---
 
-## 📖 Citation
+## Citation
 
 **Household and School-Based Survey Methods to Assess HPV Vaccination Coverage Among Adolescent Girls in Liberia, Rwanda, and Senegal: The HPV-IMPACT Study**
 
@@ -59,21 +54,9 @@ This multi-country approach provides robust evidence on vaccination coverage and
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions about the study, methodology, or materials, please contact any of the HPV-IMPACT Study team, or ali.mirzazadeh@ucsf.edu.
-
----
-
-## 📜 License
-
-Please refer to the LICENSE file for terms of use.
-
----
-
-## 🙏 Acknowledgments
-
-This work was conducted through a collaborative effort to understand and improve HPV vaccination coverage in sub-Saharan Africa.
 
 ---
 
