@@ -60,7 +60,7 @@ For questions about the study, methodology, or materials, please contact ali.mir
 
 ---
 
-## 📝 Version History
+## Version History
 
 - **Version 1.0** — Initial repository release with study materials
 
