@@ -56,7 +56,7 @@ This multi-country approach provides robust evidence on vaccination coverage and
 
 ## Contact
 
-For questions about the study, methodology, or materials, please contact any of the HPV-IMPACT Study team, or ali.mirzazadeh@ucsf.edu.
+For questions about the study, methodology, or materials, please contact ali.mirzazadeh@ucsf.edu.
 
 ---
 
