@@ -21,7 +21,9 @@ This multi-country approach provides robust evidence on vaccination coverage and
 
 ### Study Materials
 
-- **[De-identified Study Data](INSERT_LINK)** — Cleaned, de-identified dataset ready for analysis
+- **[De-identified Study Data](Data/)** — Cleaned, de-identified dataset ready for analysis
+  - [`Liberia_HH_GirlsSelection.xlsx`](Data/Liberia_HH_GirlsSelection.xlsx) — Data required to calculate sampling probabilities at each stage of the survey and for post-stratification.
+  - [`Liberia_HPV_Caregivers_ShortData.xlsx`](Data/Liberia_HPV_Caregivers_ShortData.xlsx) — Household survey data containing caregiver responses related to HPV vaccination of their adolescent girls.
 - **[R Analysis Code](R/)** — Complete R scripts for data processing, analysis, and visualization
   - [`Rcode_RW_HH_Survey_Sampling_Weights_Calculation.R`](R/Rcode_RW_HH_Survey_Sampling_Weights_Calculation.R) — Calculates sampling weights for the Household (HH) survey.
   - [`Rcode_RW_School_Survey_Sampling_Weights_Calculation.R`](R/Rcode_RW_School_Survey_Sampling_Weights_Calculation.R) — Calculates sampling weights for the School survey.
